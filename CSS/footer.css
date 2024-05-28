@@ -1,0 +1,125 @@
+#o,#t,#t1 {
+    
+    font-family: "Teachers", sans-serif;   
+    color:  aliceblue;
+}
+#o {
+    font-size: 35px;
+}
+.b1,.b2,.b3{
+    width: 30%;
+    text-align: center;
+    background-color:  rgba(10, 22, 47, 1);
+    display: inline-block;
+    height: auto;
+    
+    vertical-align: top;
+    
+    overflow: hidden;
+}
+#l1 {
+    padding-top: 30px;
+    color: aliceblue;
+    font-family: "Teachers", sans-serif;  
+}
+#pi,#ma,#ff {
+    width: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 40px;
+    display: inline block;
+}
+.l3 {
+    color: aliceblue;
+    font-family: "Teachers", sans-serif;  
+    padding: 10px;
+    text-decoration-line: none;
+    float: left;
+    width: 60px;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+.l9 {
+    
+    color: aliceblue;
+    font-family: "Teachers", sans-serif;  
+    padding: 10px;
+    text-decoration-line: none;
+    float: left;
+    width: 60px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.l2,.l4,.l7 {
+    
+    float: left;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding-top: 10px;
+    width: 50px;
+    height: 40px;
+    
+}
+#l6 {
+    
+    color: aliceblue;
+    font-family: "Teachers", sans-serif;  
+    padding: 10px;
+    text-decoration-line: none;
+    float: left;
+    width: 300px;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+#pi:hover {
+    cursor: pointer;
+}
+#ma:hover {
+    cursor: pointer;
+}
+#ff:hover {
+    cursor: pointer;
+}
+#f1 {
+    
+    color: black;
+    font-family: "Teachers", sans-serif;  
+    padding-top: 100px;
+}
+#one,#tw,#th {
+    width: 60px;
+    padding: 10px;
+}
+.x11 {
+    color: aliceblue;
+    padding-top: 30px;
+    
+    font-family: "Teachers", sans-serif;  
+}
+#fb {
+    
+    padding-top: 60px;
+}
+.lin {
+    
+    color: aliceblue;
+    
+    text-decoration-line: none;
+    font-family: "Teachers", sans-serif;  
+    padding-bottom: 10px;
+}
+footer {
+    
+    background-color: rgba(10, 22, 47, 1);
+    color: aliceblue;
+    font-family: "Teachers", sans-serif; 
+    
+    
+}
+body {
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 0px;
+    
+}

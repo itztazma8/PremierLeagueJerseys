@@ -1,0 +1,33 @@
+.f1 {
+    
+    font-family: "Teachers", sans-serif;  
+    font-size: 50px;
+    font-weight: lighter;
+    color: aliceblue;
+    text-align: center;
+
+}
+body {
+    
+    background-color: rgba(10, 22, 47, 1);
+    
+}
+.one {
+    color: aliceblue;
+    text-align: center;
+    font-family: "Teachers", sans-serif;  
+    font-size: 30px;
+}
+.im {
+    width: 150px;
+    height: 150px;
+}
+.two {
+    padding-left: 15px;
+    
+    text-align: center;
+}
+.ico {
+    width: 100%;
+    padding-top: 20px;
+}

@@ -1,0 +1,97 @@
+.a1 {
+    height: auto;
+    background-color:  rgba(10, 22, 47, 1);
+    
+    text-align: center;
+}
+body {
+    
+    background-color:  rgba(10, 22, 47, 1);
+}
+#a3 {
+    display: inline-block;
+    width: 60%;
+    height: auto;
+    text-align: center;
+}
+.im {
+    width: 500px;
+}
+form {
+    padding-left: 15px;
+    font-size: 30px;
+    color: aliceblue;
+}
+#a4 {
+    color: aliceblue;
+    font-size: 25px;
+    font-family: "Teachers", sans-serif;   
+}
+select {
+    font-size: 25px;
+    color: black;
+    font-family: "Teachers", sans-serif;   
+}
+#pr {
+    
+    font-weight: lighter;
+    font-size: 30px;
+    padding-top: 20px;
+    font-family: "Teachers", sans-serif; 
+    color: aliceblue;
+}
+#but {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-family: "Teachers", sans-serif;
+    background-color: black;
+    text-decoration-line: none;
+    padding: 10px;
+    color: aliceblue;
+    border: 0px solid black;
+}
+#but:hover {
+    
+    background-color: aliceblue;
+    transition: ease-in-out;
+    transition-duration: 1s;
+    margin-bottom: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+#ss {
+    font-size: 20px;
+}
+#hw {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: lighter;
+    
+    font-family: "Teachers", sans-serif;
+}
+#lw {
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: lighter;
+    
+    font-family: "Teachers", sans-serif;
+}
+#pp {
+    
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: lighter;
+    
+    font-family: "Teachers", sans-serif;
+}
+#hw1 {
+    padding-left: 90px;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: lighter;
+    
+    font-family: "Teachers", sans-serif;
+}

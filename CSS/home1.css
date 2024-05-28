@@ -1,0 +1,36 @@
+.mb {
+    background-image:url("Images/kit1.png");
+    height: 100vh;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    text-align: center;
+    padding-left: 50px;
+    
+}
+.one {
+    padding: 15px;
+    width: 250px;
+    border-radius: 5px;
+    cursor: pointer;
+    background:black;
+    color: aliceblue;
+    font-family: "Teachers", sans-serif;  
+    font-size: 30px;
+    border: 0px solid wheat;
+    
+}
+.pp {
+    
+    font-family: "Teachers", sans-serif;  
+    color: black;
+    font-size: 20px;
+
+}
+.one:hover {
+    background-color:rgba(10, 22, 47, 1);
+    color: aliceblue;
+    transition: ease-in-out;
+    transition-duration: 0.5s;
+    margin-inline-start: 20px;
+}

@@ -1,0 +1,60 @@
+#a1 {
+    font-size: 40px;
+    font-weight: lighter;
+    color: aliceblue;
+    font-family: "Teachers", sans-serif; 
+    text-align: center;
+    padding-right: 25px;
+}
+body {
+    
+    background-color:  rgba(10, 22, 47, 1);
+}
+#a2 {
+    
+    color: aliceblue;
+    font-family: "Teachers", sans-serif; 
+    text-align: center;
+    
+    
+    
+}
+main {
+    text-align: center;
+    
+    
+    color: aliceblue;
+    font-family: "Teachers", sans-serif; 
+}
+.fm {
+    padding-right: 25px;
+    font-size: 20px;
+}
+
+#but {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-family: "Teachers", sans-serif;
+    background-color: black;
+    color: aliceblue;
+    border: 0px solid black;
+}
+#but:hover {
+    
+    background-color: aliceblue;
+    transition: ease-in-out;
+    transition-duration: 1s;
+    margin-bottom: 10px;
+    color: black;
+    cursor: pointer;
+}
+#q1 {
+    width: 500px;
+    height: 25px;
+    background-color: aliceblue;
+    color: black;
+    
+    font-family: "Teachers", sans-serif;
+    font-size: 20px;
+}

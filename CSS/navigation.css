@@ -1,0 +1,80 @@
+header {
+    font-family: "Lovers Quarrel";
+    font-size: 50px;
+    color: aliceblue;
+    background-color:  rgba(10, 22, 47, 1);
+    padding-left: 10px;
+    
+}
+body {
+    margin: 0;
+}
+.n1 ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(10, 22, 47, 1);
+    padding-left: 40%;
+}
+.n1 a{
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    font-family: "Teachers", sans-serif;  
+    font-size: 15px;
+}
+.n1 li {
+    float: left;
+    background-color:  rgba(10, 22, 47, 1);
+    
+    
+}
+.im1,.im2 {
+    width: 45%;
+    padding-top: 10px;
+}
+.im2 {
+    padding-left: 5px;
+}
+.cart a{
+    text-align: center;
+    width: 50px;
+    display: inline-block;
+}
+.cart {
+    display: inline-block;
+    padding-left: 1110px;
+    width: 117px;
+    text-align: center;
+}
+.cart a:hover {
+    background-color:black;
+    border-radius: 10px;
+    backface-visibility: visible;
+    transform-style: flat;
+    transition: ease-in-out;
+    transition-duration: 2s;
+    box-shadow: 10px;
+    padding: 1px;
+    margin: 1px;  
+    transition: 0.15s;
+}
+.n1 li:hover {
+    
+    background-color:black;
+    border-radius: 10px;
+    backface-visibility: visible;
+    transform-style: flat;
+    transition: ease-in-out;
+    transition-duration: 2s;
+    box-shadow: 10px;
+    padding: 1px;
+    margin: 1px;  
+    transition: 0.15s;
+}
+#hh {
+    color: aliceblue;
+    text-decoration-line: none;
+}

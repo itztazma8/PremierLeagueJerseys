@@ -1,0 +1,124 @@
+header { 
+    margin: 0; 
+    padding: 0; 
+  } 
+h1 {
+    font-family: "Teachers", sans-serif;   
+    
+    font-size: 35px;
+    background-color:  rgba(10, 22, 47, 1);
+}
+main {
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:0;
+    padding:0;
+}
+header {
+    font-family: "Lovers Quarrel";
+    font-size: 45px;
+    font-weight: bold;
+    color:aliceblue;
+    padding-left: 15px;
+    color:  rgba(10, 22, 47, 1);
+    margin: 0;
+}
+.first,.second {
+    padding-top: 2%;
+    margin: 0;
+}
+.first{
+    color:aliceblue;
+    font-size: 20px;
+    font-family: "Teachers", sans-serif;   
+    margin: 0;
+}
+.b1 {
+    width: 350px;
+    height: 20px;
+    font-family: "Teachers", sans-serif;  
+    font-size: 15px;
+
+}
+.b1:hover {
+    color:  rgba(10, 22, 47, 1);
+    border: 2px solid  rgba(10, 22, 47, 1);
+    cursor: none;
+    border-radius: 5px;
+}
+#f1 {
+    text-align: center;
+    width: 100%;
+    background-color:  rgba(10, 22, 47, 1);
+    height: auto;
+    
+    
+}
+#one {
+    
+    font-family: "Teachers", sans-serif;   
+    padding: 10px;
+    border-radius: 2px;
+    border: 0px solid  rgba(10, 22, 47, 1);
+    font-size: 20px;
+}
+#one:hover {
+    cursor: pointer;
+}
+.sec {
+
+    width: 60;
+    background-color: black;
+    padding-left: 50px;
+    
+}
+#two {
+    padding-top: 5%;
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: "Teachers", sans-serif; 
+    
+}
+#tt {
+    
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: "Teachers", sans-serif;  
+}
+#b2 {
+    width: 350px;
+    padding: 1%;
+    
+    font-family: "Teachers", sans-serif; 
+    font-size: 15px;
+    border-radius: 5px;
+    
+    border: 0px solid black;
+}
+#b2:hover {
+    cursor: none;
+}
+
+
+#bu3 {
+    
+    font-family: "Teachers", sans-serif;   
+    padding: 9px;
+    border-radius: 2px;
+    border: 0px solid  rgba(10, 22, 47, 1);
+    font-size: 15px;
+}
+#bu3:hover {
+    cursor: pointer;
+}
+main {
+    background-color: rgba(10, 22, 47, 1);
+}
+#fff {
+    font-size: 40px;
+    font-weight: lighter;
+    
+    font-family: "Teachers", sans-serif;   
+}

@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    background-image: url(main.jpg);
+}
+#name {
+    font-family: "Lovers Quarrel";
+    font-weight: bold;
+    font-size: 50px;
+    padding-left: 15px;
+    color: aliceblue;
+    padding-top: 20px;
+}
+.title {
+    color:aliceblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 7%;
+    width: 35%;
+    padding-left: 15px;
+}
+.des {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 15px;
+}
+#but2 {
+    padding-left: 15px; 
+}
+#but1 {
+    border: 2px solid aliceblue;
+    font-size: 20px;
+    background-color: transparent;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+#but1:hover {
+    color: white;
+    background-color: midnightblue;
+    transition: 2s linear;
+    cursor: pointer;
+}
