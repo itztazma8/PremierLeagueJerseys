@@ -15,35 +15,68 @@ Currently in Bangladesh, we do not have any established website where people can
 Database: user_info
 
 
+
+
 ![ss_1](https://github.com/user-attachments/assets/79cdb0a8-ed05-4a97-b3b0-14815386687d)
 
 ![Screenshot 2025-06-19 103134](https://github.com/user-attachments/assets/7d101570-9453-46a9-abb1-121d9a6e2c07)
 
 ![Screenshot 2025-06-19 103205](https://github.com/user-attachments/assets/2849039d-e3b0-4aad-af12-01ead080d577)
 
+
+
+
 Database: kits
+
+
+
 
 ![Screenshot 2025-06-19 103248](https://github.com/user-attachments/assets/b3a25ed1-173d-49dc-bf76-ee8b222005fe)
 
 ![Screenshot 2025-06-19 103325](https://github.com/user-attachments/assets/91de32ed-46cd-4f7c-bb6b-f6092fa34264)
 
 
+
+
 1.4 Description Of ER
 
 Table: users
+
+
 ![Screenshot 2025-06-19 103442](https://github.com/user-attachments/assets/935edd9e-8e87-4fb3-a260-364c2f070948)
 
+
+
+
 Table: subs
+
+
+
 ![Screenshot 2025-06-19 103536](https://github.com/user-attachments/assets/d574c8f5-44aa-4ff9-8049-4d7da1b054d7)
 
+
+
 Table: details
+
+
 ![Screenshot 2025-06-19 103622](https://github.com/user-attachments/assets/f0a4dc94-5184-4f42-bc99-a896de16ee46)
 
+
 Table: kits
+
+
+
 ![Screenshot 2025-06-19 103712](https://github.com/user-attachments/assets/85c52a8a-0444-4fa3-884b-5180be44edaa)
 
+
+
 Table: search
+
+
+
 ![Screenshot 2025-06-19 103750](https://github.com/user-attachments/assets/3f790f63-f9ca-4aee-8fb5-d86f07d5ff90)
+
+
 
 1.5 Sign Up & Log In 
 
@@ -60,12 +93,23 @@ Table: search
 ![Screenshot 2025-06-19 104054](https://github.com/user-attachments/assets/abf59eb5-b9c6-4d8a-ae59-ea2a3d6aea74)
 
 
+
+
 1.7 Cart
 
 In Cart, the user’s purchases are displayed
+
+
+
 ![Screenshot 2025-06-19 104307](https://github.com/user-attachments/assets/2fa1b7f1-58cd-404e-9b7c-8a2331f30046)
 
+
+
+
 1.8 Offers
+
+
+
 ![Screenshot 2025-06-19 104356](https://github.com/user-attachments/assets/1871198c-2fe0-48f2-9c34-28761296c3ab)
 
 The offer page is where all types of offers will be displayed to the user
