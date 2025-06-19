@@ -4,15 +4,15 @@ This website is made for buying premier league jerseys. This is only exclusive t
 
 
 
-#1.2 Motive
+# 1.2 Motive
 
 Currently in Bangladesh, we do not have any established website where people can buy jerseys within a more feasible price. Many want to buy jerseys in wholesale price. This site aims to be exactly like that. The site follows the UK pricing system as an example. If the wholesale stores can open their own websites like this, then the football lovers in our country can buy jerseys in a more suitable price.
 
 
-#1.3 ER Diagram
+# 1.3 ER Diagram
 
 
-Database: user_info
+## Database: user_info
 
 
 
@@ -26,7 +26,7 @@ Database: user_info
 
 
 
-Database: kits
+## Database: kits
 
 
 
@@ -38,9 +38,9 @@ Database: kits
 
 
 
-#1.4 Description Of ER
+# 1.4 Description Of ER
 
-Table: users
+## Table: users
 
 
 ![Screenshot 2025-06-19 103442](https://github.com/user-attachments/assets/935edd9e-8e87-4fb3-a260-364c2f070948)
@@ -48,7 +48,7 @@ Table: users
 
 
 
-Table: subs
+## Table: subs
 
 
 
@@ -56,13 +56,13 @@ Table: subs
 
 
 
-Table: details
+## Table: details
 
 
 ![Screenshot 2025-06-19 103622](https://github.com/user-attachments/assets/f0a4dc94-5184-4f42-bc99-a896de16ee46)
 
 
-Table: kits
+## Table: kits
 
 
 
@@ -70,7 +70,7 @@ Table: kits
 
 
 
-Table: search
+## Table: search
 
 
 
@@ -78,13 +78,13 @@ Table: search
 
 
 
-#1.5 Sign Up & Log In 
+# 1.5 Sign Up & Log In 
 
 ![Screenshot 2025-06-19 103943](https://github.com/user-attachments/assets/5645bf40-cca5-4220-896e-81d877a36840)
 ![Screenshot 2025-06-19 103928](https://github.com/user-attachments/assets/ea2a842f-f7d4-4fa2-85b8-c65b41348977)
 ![Screenshot 2025-06-19 103913](https://github.com/user-attachments/assets/10613998-2941-4b90-b26d-54fc0edfc7e8)
 
-#1.6 The Club Sorting System
+# 1.6 The Club Sorting System
 
 
 ![Screenshot 2025-06-19 104206](https://github.com/user-attachments/assets/2640114a-11c1-4ad7-89c0-cc0ca5159ab6)
@@ -95,7 +95,7 @@ Table: search
 
 
 
-#1.7 Cart
+# 1.7 Cart
 
 In Cart, the user’s purchases are displayed
 
@@ -106,7 +106,7 @@ In Cart, the user’s purchases are displayed
 
 
 
-#1.8 Offers
+# 1.8 Offers
 
 
 
@@ -114,7 +114,7 @@ In Cart, the user’s purchases are displayed
 
 The offer page is where all types of offers will be displayed to the user
 
-#1.9 Filter & Search System
+# 1.9 Filter & Search System
 
 This is the database of the search system where users can put the price tag or the club name to search for their respective products manually. 
 
